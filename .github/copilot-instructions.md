@@ -4,7 +4,7 @@
 
 - This repository contains a lightweight Docsify resume website for Aleksei Petrov.
 - There is no application build system or package manifest in the repository.
-- The published site is available at `https://oegir.github.io/resume/#/`.
+- The published site is available at `https://oegir.github.io/oegir/#/`.
 
 ## Repository Structure
 
