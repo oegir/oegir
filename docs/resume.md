@@ -6,6 +6,8 @@ Varna, Bulgaria
 
 [LinkedIn](https://www.linkedin.com/in/webprogrammist) | [GitHub](https://github.com/oegir) | [Facebook](https://www.facebook.com/aleksei.336862/)
 
+[English](resume.md) | [Русский](resume.ru.md) | [Български](resume.bg.md)
+
 ## Profile
 
 PHP Backend Developer with 10+ years of experience in web application and backend development. I build and improve reliable services, work comfortably with legacy systems, and collaborate effectively with frontend teams.
