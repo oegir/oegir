@@ -6,7 +6,7 @@ Varna, Bulgaria
 
 [LinkedIn](https://www.linkedin.com/in/webprogrammist) | [GitHub](https://github.com/oegir) | [Facebook](https://www.facebook.com/aleksei.336862/)
 
-[English](resume.md) | [Русский](resume.ru.md) | [Български](resume.bg.md)
+[English](/resume.md) | [Русский](/ru/resume.md) | [Български](/bg/resume.md)
 
 ## Profile
 

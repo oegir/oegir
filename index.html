@@ -15,8 +15,8 @@
     if (!location.hash || location.hash === '#' || location.hash === '#/') {
       var resumeByLanguage = {
         en: 'resume.md',
-        ru: 'resume.ru.md',
-        bg: 'resume.bg.md'
+        ru: 'ru/resume.md',
+        bg: 'bg/resume.md'
       }
       var browserLanguages = []
 
@@ -46,13 +46,35 @@
 
       location.hash = '#/' + resumePage
     }
+
+    window.resumeSidebarFile = function () {
+      var resumePath = location.hash.replace(/^#\/?/, '').split('?')[0]
+      var sidebarByResume = {
+        'resume.md': '_sidebar.md',
+            'ru/resume.md': 'ru/_sidebar.md',
+            'bg/resume.md': 'bg/_sidebar.md'
+      }
+
+      return sidebarByResume[resumePath] || '_sidebar.md'
+    }
+
+    window.currentResumeSidebar = window.resumeSidebarFile()
+    window.addEventListener('hashchange', function () {
+      var nextSidebar = window.resumeSidebarFile()
+      if (nextSidebar !== window.currentResumeSidebar) {
+        location.reload()
+        return
+      }
+
+      window.currentResumeSidebar = nextSidebar
+    })
   </script>
   <script>
     window.$docsify = {
       name: 'Aleksei Petrov',
       basePath: 'docs/',
       homepage: 'resume.md',
-      loadSidebar: true,
+      loadSidebar: window.currentResumeSidebar,
       subMaxLevel: 0,
       sidebarDisplayLevel: 0,
       auto2top: true,

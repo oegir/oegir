@@ -4,7 +4,7 @@
   - [HTML Academy](resume.md#html-academy)
   - [Timebook Service LLC](resume.md#timebook-service-llc)
   - [Smart Line LLC](resume.md#smart-line-llc)
-  - [REG.RU](resume.md#regru---domain-registration-web-hosting-and-vps-services)
+  - [REG.RU](resume.md#regru--domain-registration-web-hosting-and-vps-services)
   - [Sole Proprietor Konstantin Borisovich Gromov](resume.md#sole-proprietor-konstantin-borisovich-gromov)
   - [T.T. Consulting](resume.md#tt-consulting)
   - [Rossite LLC](resume.md#rossite-llc)
