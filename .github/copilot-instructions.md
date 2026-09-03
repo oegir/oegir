@@ -16,8 +16,10 @@
 ## Editing Guidelines
 
 - Keep content changes in `docs/resume.md`; do not duplicate resume text in `index.html` or `styles.css`.
+- Write all repository artifacts created with AI in English, except for localized content versions. This includes commit messages, issues, pull request descriptions, comments, documentation, and similar artifacts.
 - Treat the English resume as primary: apply new structural and content changes there first, then update other language versions from it. Preserve intentional local edits for cultural, formatting, slang, and other language-specific needs; never sync them back to English or overwrite them from English.
 - Preserve the existing professional, concise resume tone and Markdown structure.
+- Keep GitHub Issues focused on recording the problem; use the shortest clear description possible, preferably no more than one or two sentences. Avoid implementation plans and extended context unless requested.
 - Keep contact links, dates, job titles, locations, and technology names accurate and consistent.
 - Use standard Markdown supported by Docsify. Avoid introducing a build-time Markdown or templating dependency.
 - Save every plan in `__tmp/prompts/` at the repository root. Name plan files `plan-<topic>.prompt.md`, using lowercase kebab-case for `<topic>`; do not save plans elsewhere.
