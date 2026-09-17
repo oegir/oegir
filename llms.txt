@@ -1,0 +1,9 @@
+# Aleksei Petrov
+
+PHP Backend Developer with 10+ years of experience in web application and backend development.
+
+## Resume sources
+
+- [English resume](https://oegir.github.io/oegir/docs/resume.md)
+- [Russian resume](https://oegir.github.io/oegir/docs/ru/resume.md)
+- [Bulgarian resume](https://oegir.github.io/oegir/docs/bg/resume.md)
