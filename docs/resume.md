@@ -1,6 +1,6 @@
 # Aleksei Petrov
 
-> **PHP Backend Developer** | REST API | MySQL | Open to Remote
+> **PHP Backend Developer** | Backend Services | REST API | MySQL | Hosting Infrastructure
 
 Varna, Bulgaria
 
@@ -10,7 +10,7 @@ Varna, Bulgaria
 
 ## Profile
 
-PHP Backend Developer with 10+ years of experience in web application and backend development. I build and improve reliable services, work comfortably with legacy systems, and collaborate effectively with frontend teams.
+PHP Backend Developer with 10+ years of experience building and supporting web applications, backend services, and integrations. I design and improve reliable APIs, work comfortably with legacy systems, and collaborate effectively with frontend teams.
 
 My core stack is **PHP, MySQL, SQL, and REST APIs**, with experience across hosting infrastructure, billing systems, CRM solutions, and microservice architecture.
 
