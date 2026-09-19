@@ -125,21 +125,30 @@ Hosting infrastructure | Monitoring | Automation | Provisioning | Billing system
 
 ## Education
 
-### Moscow Technological Institute
+### [Moscow Technological Institute](https://www.linkedin.com/company/moscow-technological-institute/)
 
 **Bachelor of Technology, Software Development Technologies**<br>
 August 2017 - April 2022
 
 ## Languages
 
-- **Russian:** Native or bilingual proficiency
-- **English:** Limited working proficiency
+- **Russian:** Native
+- **English:** B1 / Limited working proficiency
 - **Bulgarian:** Elementary proficiency
 
 ## Certifications
 
-- English Proficiency Certificate
-- GitHub Foundations
+### Language proficiency
+
+- [Duolingo English Test](https://certs.duolingo.com/hzfidxvyz3g0fjwp)
+
+### Learning platforms
+
+- [GitHub Foundations](https://learn.microsoft.com/en-us/users/57088098/credentials/9889d5bdc5074ddf)
+- [Docker Foundations Professional](https://www.linkedin.com/learning/certificates/45095e93af8d4d4e19c92b481a3e0e509b935289b7ad3ac0eec3cfe0e897a4a2)
+
+### Other
+
 - Introduction to Relational Databases
 - PHP 5.2 Web Programming
 - The Basics of Programming with JavaScript

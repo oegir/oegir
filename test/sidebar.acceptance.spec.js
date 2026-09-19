@@ -12,9 +12,9 @@ test('loads the correct visible sidebar for every resume language', async ({ pag
     await expect(page.locator('.sidebar-nav')).toContainText(expectedText)
     await expect(page.locator('.sidebar-nav a').first()).toHaveAttribute('href', new RegExp('^' + expectedSidebarPath + '(?:\\?|$)'))
 
-    await expect(page.getByRole('link', { name: 'English' })).toHaveAttribute('href', '#/resume')
-    await expect(page.getByRole('link', { name: 'Русский' })).toHaveAttribute('href', '#/ru/resume')
-    await expect(page.getByRole('link', { name: 'Български' })).toHaveAttribute('href', '#/bg/resume')
+    await expect(page.getByRole('link', { name: 'English', exact: true })).toHaveAttribute('href', '#/resume')
+    await expect(page.getByRole('link', { name: 'Русский', exact: true })).toHaveAttribute('href', '#/ru/resume')
+    await expect(page.getByRole('link', { name: 'Български', exact: true })).toHaveAttribute('href', '#/bg/resume')
   }
 })
 
