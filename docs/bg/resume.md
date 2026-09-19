@@ -125,21 +125,30 @@ PHP Backend разработчик с над 10 години опит в раз�
 
 ## Образование
 
-### Московски технологичен институт
+### [Московски технологичен институт](https://www.linkedin.com/company/moscow-technological-institute/)
 
 **Бакалавър по технологии, технологии за разработка на софтуер**<br>
 Август 2017 - Април 2022
 
 ## Езици
 
-- **Руски:** роден или двуезичен
-- **Английски:** ограничено работно владеене
+- **Руски:** роден
+- **Английски:** B1 / ограничено работно владеене
 - **Български:** начално ниво
 
 ## Сертификати
 
-- Сертификат за владеене на английски език
-- GitHub Foundations
+### Проверка на ниво по английски
+
+- [Duolingo English Test](https://certs.duolingo.com/hzfidxvyz3g0fjwp)
+
+### Платформи за обучение
+
+- [GitHub Foundations](https://learn.microsoft.com/en-us/users/57088098/credentials/9889d5bdc5074ddf)
+- [Docker Foundations Professional](https://www.linkedin.com/learning/certificates/45095e93af8d4d4e19c92b481a3e0e509b935289b7ad3ac0eec3cfe0e897a4a2)
+
+### Други
+
 - Въведение в релационните бази данни
 - Уеб програмиране с PHP 5.2
 - Основи на програмирането с JavaScript
