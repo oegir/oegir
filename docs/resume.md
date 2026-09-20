@@ -26,88 +26,89 @@ Sofia City, Bulgaria
 - Developed and maintained hosting infrastructure solutions that supported service delivery, resource allocation, and operational stability.
 - Built and extended backend components for monitoring, automation, provisioning, resource accounting, and quota management across platform services.
 - Created plugins and integrations for hosting control panels to streamline service workflows and improve platform compatibility.
-- Improved and maintained backend functionality across multiple company projects to support ongoing product reliability and feature delivery.
+- Improved and maintained backend functionality across multiple company projects to support product reliability and feature delivery.
 
 ### HTML Academy
 
 **Mentor for PHP Intensive Courses** | November 2019 - November 2021<br>
 St. Petersburg, Russia
 
-- Mentored students on intensive PHP development courses.
+- Mentored students in intensive PHP development courses and guided them through practical backend problem solving.
+- Reviewed assignments, explained architecture decisions, and supported students in building working PHP solutions.
 
 ### Timebook Service LLC
 
 **Developer** | April 2021 - October 2021<br>
 Velikiy Novgorod, Russia
 
-- Worked remotely on the Timebook Time Management System.
-- Fixed bugs, refactored code, and implemented new features.
-- Technologies: PHP, MySQL, JavaScript, jQuery, Bootstrap.
+- Worked remotely on the Timebook time management system, fixing bugs and improving application stability.
+- Refactored legacy code and implemented new features across the platform using PHP, MySQL, JavaScript, jQuery, and Bootstrap.
 
 ### Smart Line LLC
 
 **PHP, SQL Developer** | December 2018 - April 2021<br>
 Saint Petersburg Metropolitan Area, Russia
 
-- Delivered backend and database work across project tasks.
+- Delivered backend and database work across multiple projects, supporting feature implementation and system maintenance.
+- Improved data handling and application logic to keep project services reliable and maintainable.
 
 ### REG.RU - Domain Registration, Web Hosting, and VPS Services
 
 **PHP, SQL Developer** | December 2017 - October 2018<br>
 Moscow, Russia
 
-- Worked remotely as part of the development team for a large internet project.
-- Developed and maintained a user account billing system.
-- Contributed to a microservices-based system using Yii2, Slim, and Angular.
+- Worked remotely as part of a large internet project team, contributing to backend services and platform maintenance.
+- Developed and maintained a user account billing system and supported recurring payment flows.
+- Contributed to a microservices-based platform using Yii2, Slim, and Angular to extend service capabilities.
 
 ### Sole Proprietor Konstantin Borisovich Gromov
 
 **1C Developer** | July 2016 - September 2017
 
-- Developed and implemented an inventory management system based on 1C.
-- Integrated the accounting system with the company website.
+- Developed an inventory management system based on 1C to support stock tracking and operational reporting.
+- Integrated the accounting system with the company website to streamline business workflows.
 
 ### T.T. Consulting
 
 **Web Developer** | May 2014 - June 2016<br>
 St. Petersburg, Russia
 
-- Maintained and extended website functionality with a focus on backend development.
-- Developed with PHP, MySQL, and JavaScript, and integrated 1C with websites.
-- Worked with Joomla + VirtueMart, Drupal, and NetCat.
+- Maintained and extended website functionality with a focus on backend development and service reliability.
+- Built PHP, MySQL, and JavaScript solutions and integrated 1C with client websites.
+- Worked with Joomla + VirtueMart, Drupal, and NetCat to support custom web applications and content systems.
 
 ### Rossite LLC
 
 **Web Developer** | March 2014 - May 2014<br>
 St. Petersburg, Russia
 
-- Developed Joomla websites, implemented HTML/CSS layouts, integrated templates, and customized module code.
-- Managed website content.
+- Developed Joomla websites, implemented HTML/CSS layouts, and customized module code to match client requirements.
+- Integrated templates and maintained website content to keep projects updated and usable.
 
 ### Kompik Trading House LLC
 
 **Content Manager** | January 2014 - March 2014<br>
 St. Petersburg City, Russia
 
-- Created and updated product pages in Joomla CMS.
-- Sourced and edited product images and wrote product descriptions.
+- Created and updated product pages in Joomla CMS to keep catalog content accurate and presentation-ready.
+- Sourced and edited product images and wrote product descriptions to support storefront publishing.
 
 ### Kario.ru LLC
 
 **Content Manager** | December 2012 - January 2014<br>
 St. Petersburg, Russia
 
-- Prepared suppliers' price lists in Microsoft Excel for import into the 1C database.
-- Added product images and technical specifications to Bitrix CMS pages.
+- Prepared supplier price lists in Microsoft Excel for import into the 1C database to support catalog updates.
+- Added product images and technical specifications to Bitrix CMS pages to improve product presentation and completeness.
 
 ### ECOS Implementation Center LLC
 
 **1C Programmer** | August 2007 - October 2009<br>
 St. Petersburg, Russia
 
-- Analyzed accounting processes and corrected errors in client databases.
-- Modified standard 1C configurations to meet customer requirements.
-- Installed and updated 1C software.
+- Analyzed accounting processes and corrected errors in client databases to improve data quality and operational consistency.
+- Modified standard 1C configurations to meet customer requirements and support business-specific workflows.
+- Installed and updated 1C software to maintain stable client environments.
 
 ## Skills
 
