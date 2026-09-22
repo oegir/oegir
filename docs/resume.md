@@ -10,7 +10,7 @@ Varna, Bulgaria
 
 ## Profile
 
-PHP Backend Developer with 10+ years of experience in web application and backend development. I build and improve reliable services, work comfortably with legacy systems, and collaborate effectively with frontend teams.
+PHP Backend Developer with 10+ years of combined experience in software and web development. I build and improve reliable services, work comfortably with legacy systems, and collaborate effectively with frontend teams.
 
 My core stack is **PHP, MySQL, SQL, and REST APIs**, with experience across hosting infrastructure, billing systems, CRM solutions, and microservice architecture.
 
@@ -18,9 +18,9 @@ My core stack is **PHP, MySQL, SQL, and REST APIs**, with experience across host
 
 ## Experience
 
-### WebPros
+### [WebPros](https://webpros.com/)
 
-**Software Developer** | October 2021 - Present<br>
+**Software Developer** | October 2021 - Present | Remote<br>
 Sofia City, Bulgaria
 
 - Developed and maintained hosting infrastructure solutions that supported service delivery, resource allocation, and operational stability.
@@ -28,33 +28,33 @@ Sofia City, Bulgaria
 - Created plugins and integrations for hosting control panels to streamline service workflows and improve platform compatibility.
 - Improved and maintained backend functionality across multiple company projects to support product reliability and feature delivery.
 
-### HTML Academy
+### [HTML Academy](https://htmlacademy.ru/)
 
-**Mentor for PHP Intensive Courses** | November 2019 - November 2021<br>
+**Mentor for PHP Intensive Courses** | November 2019 - November 2021 | Remote, part-time<br>
 St. Petersburg, Russia
 
 - Mentored students in intensive PHP development courses and guided them through practical backend problem solving.
 - Reviewed assignments, explained architecture decisions, and supported students in building working PHP solutions.
 
-### Timebook Service LLC
+### [Timebook Service LLC](https://wfm.timebook.ru/)
 
 **Developer** | April 2021 - October 2021<br>
 Velikiy Novgorod, Russia
 
-- Fixed bugs and improved stability in the Timebook time management system.
+- Worked remotely on the Timebook time management system, fixing bugs and improving stability.
 - Refactored legacy code and implemented platform features using PHP, MySQL, JavaScript, jQuery, and Bootstrap.
 
 ### Smart Line LLC
 
-**PHP, SQL Developer** | December 2018 - April 2021<br>
+**PHP, SQL Developer** | December 2018 - April 2021 | On-site<br>
 Saint Petersburg Metropolitan Area, Russia
 
 - Implemented backend features and database changes across multiple projects.
 - Refined data handling and application logic to keep services reliable and maintainable.
 
-### REG.RU - Domain Registration, Web Hosting, and VPS Services
+### [REG.RU](https://www.reg.ru/) - Domain Registration, Web Hosting, and VPS Services
 
-**PHP, SQL Developer** | December 2017 - October 2018<br>
+**PHP, SQL Developer** | December 2017 - October 2018 | Remote<br>
 Moscow, Russia
 
 - Developed and maintained backend services for a domain registration, hosting, and VPS platform.
@@ -68,9 +68,9 @@ Moscow, Russia
 - Developed a 1C inventory management system for stock tracking and operational reporting.
 - Integrated the 1C accounting system with the company website to connect business workflows.
 
-### T.T. Consulting
+### [T.T. Consulting](https://ttcsoft.ru/)
 
-**Web Developer** | May 2014 - June 2016<br>
+**Web Developer** | May 2014 - June 2016 | On-site<br>
 St. Petersburg, Russia
 
 - Developed and maintained backend functionality for client websites using PHP, MySQL, and JavaScript.
