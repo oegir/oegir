@@ -14,7 +14,7 @@ PHP Backend Developer with 10+ years of combined experience in software and web 
 
 My core stack is **PHP, MySQL, SQL, and REST APIs**, with experience across hosting infrastructure, billing systems, CRM solutions, and microservice architecture.
 
-**Work authorization:** EU Blue Card in Bulgaria, held for 4+ years, with a simplified employer-change procedure.
+**Work authorization:** Authorized to work in Bulgaria under an EU Blue Card, held for more than four years. Eligible for a simplified employer-change procedure.
 
 ## Experience
 
