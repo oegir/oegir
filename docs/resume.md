@@ -12,7 +12,7 @@ Varna, Bulgaria
 
 PHP Backend Developer with 10+ years of combined experience in software and web development. I build and improve reliable services, work comfortably with legacy systems, and collaborate effectively with frontend teams.
 
-My core stack is **PHP, MySQL, SQL, and REST APIs**, with experience across hosting infrastructure, billing systems, CRM solutions, and microservice architecture.
+My core stack is **PHP, MySQL, SQL, and REST API**, with experience across hosting infrastructure, billing systems, CRM solutions, and microservice architecture.
 
 **Work authorization:** Authorized to work in Bulgaria under an EU Blue Card, held for more than four years. Eligible for a simplified employer-change procedure.
 
@@ -115,15 +115,15 @@ Saint Petersburg, Russia
 
 ### Backend & Data
 
-`PHP` `MySQL` `SQL` `REST APIs` `Microservices` `Yii2` `Slim`
+`PHP` `Yii2` `Slim` `MySQL` `SQL` `REST API` `Microservice architecture`
 
 ### Frontend & CMS
 
-`JavaScript` `jQuery` `Bootstrap` `Angular` `Vue.js` `React` `Joomla` `Drupal` `NetCat` `Bitrix`
+`JavaScript` `Angular` `Vue.js` `React` `jQuery` `Bootstrap` `Joomla` `Drupal` `NetCat` `Bitrix`
 
 ### Infrastructure & Business Systems
 
-Hosting infrastructure | Monitoring | Automation | Provisioning | Billing systems | Resource accounting | Quota management | CRM | 1C
+`Hosting infrastructure` `Monitoring` `Automation` `Provisioning` `Resource accounting` `Quota management` `Billing systems` `CRM` `1C`
 
 ## Education
 

@@ -92,6 +92,11 @@ body {
   padding: 3px 7px;
 }
 
+/* Keep multi-word skill tags on one line. */
+.markdown-section :not(pre) > code {
+  white-space: nowrap;
+}
+
 .app-nav,
 .github-corner {
   display: none;
