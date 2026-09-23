@@ -1,12 +1,14 @@
-# Project Instructions
+# CLAUDE.md
 
-## Project Overview
+Guidance for Claude when working in this repository.
+
+## Project overview
 
 - Lightweight Docsify 5 resume website for Aleksei Petrov, published at `https://oegir.github.io/oegir/#/` (GitHub Pages).
 - The site has no build step. `package.json` exists only for the Playwright test suite.
 - This repository is the single source of truth for Aleksei's professional profiles. LinkedIn, job application forms, and talent platform profiles are filled in from `docs/resume.md`, not the other way around.
 
-## Repository Structure
+## Repository structure
 
 - `index.html` - page shell, Docsify configuration, language auto-redirect, per-language sidebar selection, JSON-LD structured data, canonical and `hreflang` links.
 - `docs/resume.md` - English resume; primary source of truth for resume content.
@@ -24,7 +26,7 @@
   - `__tmp/prompts/` holds plans (see below).
 - `README.md` - short project description and links.
 
-## Content Rules
+## Content rules
 
 - Keep resume content in the `docs/*/resume.md` files. Do not duplicate resume text in `index.html` or `styles.css`.
 - Treat the English resume as primary: apply new structural and content changes to `docs/resume.md` first, then update the Russian and Bulgarian versions from it.
@@ -36,7 +38,7 @@
 - Use standard Markdown supported by Docsify. Do not introduce a build-time Markdown or templating dependency.
 - Use ASCII in source files unless a real name, place, or localized content requires another character set.
 
-## Language of Repository Artifacts
+## Language of repository artifacts
 
 - Write everything created with AI in English: commit messages, issues, pull request descriptions, code comments, documentation, plans. The only exception is localized resume content.
 
@@ -46,19 +48,19 @@
 - Name plan files `__tmp/prompts/plan-<topic>.prompt.md`. The `plan-` prefix and `.prompt.md` suffix are what matter; `<topic>` is a short descriptive name.
 - Plans are disposable: the owner reviews, edits, postpones, reorders, or deletes them manually. Do not rename, clean up, or delete existing plans, and do not treat them as a source of truth or as a queue of pending work unless asked to execute a specific plan.
 
-## GitHub Issues
+## GitHub issues
 
 - Keep issues focused on recording the problem in the shortest clear form, ideally one or two sentences.
 - Do not add implementation plans or extended context unless asked.
 
-## Design and Frontend
+## Design and frontend
 
 - Keep the page responsive on narrow screens.
 - Preserve existing typography, spacing, and color variables unless a visual change is intentional.
 - Prefer CSS custom properties and focused selectors; avoid unrelated formatting changes.
 - Keep external frontend dependencies aligned with the existing Docsify 5 CDN links in `index.html`.
 
-## Local Development
+## Local development
 
 From the repository root:
 

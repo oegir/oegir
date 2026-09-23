@@ -2,7 +2,7 @@
 - [Професионален опит](/bg/resume.md#Професионален-опит)
   - [WebPros](/bg/resume.md#webpros)
   - [HTML Academy](/bg/resume.md#html-academy)
-  - [ООО «Таймубк Сервис»](/bg/resume.md#timebook-service-llc)
+  - [ООО «Таймбук Сервис»](/bg/resume.md#timebook-service-llc)
   - [ООО «Смарт Лайн»](/bg/resume.md#smart-line-llc)
   - [REG.RU](/bg/resume.md#regru--domain-registration-web-hosting-and-vps-services)
   - [ИП Громов Константин Борисович](/bg/resume.md#sole-proprietor-konstantin-borisovich-gromov)
