@@ -115,15 +115,15 @@ PHP Backend-разработчик с более чем 10-летним сово
 
 ### Backend и данные
 
-`PHP` `MySQL` `SQL` `REST API` `Микросервисы` `Yii2` `Slim`
+`PHP` `Yii2` `Slim` `MySQL` `SQL` `REST API` `Микросервисная архитектура`
 
 ### Frontend и CMS
 
-`JavaScript` `jQuery` `Bootstrap` `Angular` `Vue.js` `React` `Joomla` `Drupal` `NetCat` `Bitrix`
+`JavaScript` `Angular` `Vue.js` `React` `jQuery` `Bootstrap` `Joomla` `Drupal` `NetCat` `Bitrix`
 
 ### Инфраструктура и бизнес-системы
 
-Хостинговая инфраструктура | Мониторинг | Автоматизация | Провижининг | Биллинговые системы | Учет ресурсов | Управление квотами | CRM | 1С
+`Хостинговая инфраструктура` `Мониторинг` `Автоматизация` `Провижининг` `Учет ресурсов` `Управление квотами` `Биллинговые системы` `CRM` `1С`
 
 ## Образование
 

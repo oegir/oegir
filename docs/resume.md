@@ -115,15 +115,15 @@ Saint Petersburg, Russia
 
 ### Backend & Data
 
-`PHP` `MySQL` `SQL` `REST APIs` `Microservices` `Yii2` `Slim`
+`PHP` `Yii2` `Slim` `MySQL` `SQL` `REST API` `Microservice architecture`
 
 ### Frontend & CMS
 
-`JavaScript` `jQuery` `Bootstrap` `Angular` `Vue.js` `React` `Joomla` `Drupal` `NetCat` `Bitrix`
+`JavaScript` `Angular` `Vue.js` `React` `jQuery` `Bootstrap` `Joomla` `Drupal` `NetCat` `Bitrix`
 
 ### Infrastructure & Business Systems
 
-Hosting infrastructure | Monitoring | Automation | Provisioning | Billing systems | Resource accounting | Quota management | CRM | 1C
+`Hosting infrastructure` `Monitoring` `Automation` `Provisioning` `Resource accounting` `Quota management` `Billing systems` `CRM` `1C`
 
 ## Education
 
