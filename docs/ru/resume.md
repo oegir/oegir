@@ -2,7 +2,7 @@
 
 > **PHP Backend-разработчик** | REST API | MySQL | Открыт к удаленной работе
 
-Варна, Болгария
+Варна, Болгария | Готов к переезду в пределах Евросоюза
 
 [LinkedIn](https://www.linkedin.com/in/webprogrammist) | [GitHub](https://github.com/oegir) | [Facebook](https://www.facebook.com/aleksei.336862/)
 

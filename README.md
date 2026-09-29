@@ -2,7 +2,7 @@
 
 **PHP Backend Developer | REST API | MySQL | Open to Remote**
 
-Varna, Bulgaria
+Varna, Bulgaria | Open to relocation within the EU
 
 I am a PHP Backend Developer with 10+ years of experience building and improving web applications and backend services. I work comfortably with legacy systems and collaborate effectively with frontend teams.
 

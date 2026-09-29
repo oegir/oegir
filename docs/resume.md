@@ -2,7 +2,7 @@
 
 > **PHP Backend Developer** | REST API | MySQL | Open to Remote
 
-Varna, Bulgaria
+Varna, Bulgaria | Open to relocation within the EU
 
 [LinkedIn](https://www.linkedin.com/in/webprogrammist) | [GitHub](https://github.com/oegir) | [Facebook](https://www.facebook.com/aleksei.336862/)
 
