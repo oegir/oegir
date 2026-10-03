@@ -115,7 +115,7 @@ PHP Backend разработчик с над 10 години общ опит в 
 
 ### Backend и данни
 
-`PHP` `Yii2` `Slim` `MySQL` `SQL` `REST API` `Микросървисна архитектура`
+`PHP` `Yii2` `Slim` `Python` `LangGraph` `MySQL` `SQL` `REST API` `Микросървисна архитектура`
 
 ### Frontend и CMS
 
@@ -148,6 +148,7 @@ PHP Backend разработчик с над 10 години общ опит в 
 
 - [GitHub Foundations](https://learn.microsoft.com/en-us/users/57088098/credentials/9889d5bdc5074ddf)
 - [Docker Foundations Professional](https://www.linkedin.com/learning/certificates/45095e93af8d4d4e19c92b481a3e0e509b935289b7ad3ac0eec3cfe0e897a4a2)
+- [Introduction to LangGraph - Python (LangChain Academy)](https://academy.langchain.com/certificates/pvnjvjy3rf)
 
 ### Други
 
