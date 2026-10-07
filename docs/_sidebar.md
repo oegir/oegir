@@ -15,6 +15,7 @@
   - [Backend & Data](resume.md#backend--data)
   - [Frontend & CMS](resume.md#frontend--cms)
   - [Infrastructure & Business Systems](resume.md#infrastructure--business-systems)
+  - [Testing & CI](resume.md#testing--ci)
 - [Education](resume.md#education)
 - [Languages](resume.md#languages)
 - [Certifications](resume.md#certifications)

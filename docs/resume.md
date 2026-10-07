@@ -23,10 +23,26 @@ My core stack is **PHP, MySQL, SQL, and REST API**, with experience across hosti
 **Software Developer** | October 2021 - Present | Remote<br>
 Sofia, Bulgaria
 
-- Developed and maintained hosting infrastructure solutions that supported service delivery, resource allocation, and operational stability.
-- Built and extended backend components for monitoring, automation, provisioning, resource accounting, and quota management across platform services.
-- Created plugins and integrations for hosting control panels to streamline service workflows and improve platform compatibility.
-- Improved and maintained backend functionality across multiple company projects to support product reliability and feature delivery.
+Backend development for WHMCS, a billing and automation platform used by thousands of hosting providers, and for Plesk control panel extensions.
+
+**WHMCS - billing and payment gateways**
+
+- Resolved a critical payment-sync failure in the Stripe module caused by a breaking Stripe API change, restoring automatic payment recording instead of manual reconciliation by providers.
+- Proposed and built a unified currency service in the WHMCS core to replace duplicated logic in the Stripe and PayPal modules, and used it for on-the-fly currency conversion that kept Stripe integrations working after Stripe allowed account currency changes.
+- Fixed production defects in the WHMCS core, from a customer-reported VAT miscalculation on prorated payments (fixed with regression tests within one sprint) to invoice, order, and OAuth mail authentication issues, adding automated tests for every change.
+- Maintained the PayPal integration through PayPal API and checkout changes, and extended the WHMCS-Plesk integration to sync domain nameservers through the Plesk XML API.
+
+**Plesk extensions**
+
+- Migrated the Grafana extension from Grafana 10 to Grafana 12 after Grafana 10 reached end of support: moved the Grafana and Monitoring extensions to Grafana Unified Alerting and added a datasource health check to fix a post-install race condition.
+- Prepared the Node.js backend of an SSL extension for short-lived certificates ahead of the CA/Browser Forum lifetime reductions, adding multiple certificates per order and certificate revocation and reissue endpoints.
+- Added PHP 8.4 support to 5 extensions, and restored and expanded CSV export of Plesk lists, increasing the number of exportable lists from 6 to 30.
+- Fixed access control vulnerabilities and sensitive data exposure in three extensions.
+- Maintained automated tests and Jenkins CI pipelines for about 13 extensions, fixing flaky tests and adapting pipelines during a CI move to another cloud provider.
+
+**Skills**
+
+`PHP` `Node.js` `WHMCS` `Plesk` `Billing systems` `Payment gateways` `Stripe` `PayPal` `Hosting infrastructure` `Grafana` `Monitoring` `Automation` `Automated testing` `Regression testing` `Jenkins` `CI pipelines`
 
 ### [HTML Academy](https://htmlacademy.ru/)
 
@@ -115,7 +131,7 @@ Saint Petersburg, Russia
 
 ### Backend & Data
 
-`PHP` `Yii2` `Slim` `Python` `LangGraph` `MySQL` `SQL` `REST API` `Microservice architecture`
+`PHP` `Yii2` `Slim` `Node.js` `Python` `LangGraph` `MySQL` `SQL` `REST API` `Microservice architecture`
 
 ### Frontend & CMS
 
@@ -123,7 +139,11 @@ Saint Petersburg, Russia
 
 ### Infrastructure & Business Systems
 
-`Hosting infrastructure` `Monitoring` `Automation` `Provisioning` `Resource accounting` `Quota management` `Billing systems` `CRM` `1C`
+`WHMCS` `Plesk` `Billing systems` `Payment gateways` `Stripe` `PayPal` `Hosting infrastructure` `Grafana` `Monitoring` `Automation` `CRM` `1C`
+
+### Testing & CI
+
+`Automated testing` `Regression testing` `Jenkins` `CI pipelines`
 
 ## Education
 
