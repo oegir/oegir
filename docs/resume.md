@@ -57,7 +57,7 @@ Saint Petersburg, Russia
 **PHP/SQL Developer** | December 2017 - October 2018 | Remote<br>
 Moscow, Russia
 
-- Developed and maintained backend services for a domain registration, hosting, and VPS platform.
+- Developed and maintained backend services for a callback request product built around an Asterisk telephony server.
 - Built and maintained user-account billing functionality, including recurring payment flows.
 - Extended a microservices-based platform using Yii2, Slim, and Angular.
 
