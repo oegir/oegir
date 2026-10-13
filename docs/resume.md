@@ -46,11 +46,26 @@ Backend development for WHMCS, a billing and automation platform used by thousan
 
 ### [HTML Academy](https://htmlacademy.ru/)
 
-**Mentor for PHP Intensive Courses** | November 2019 - November 2021 | Remote, part-time<br>
+**Mentor for PHP Intensive Courses** | November 2019 - December 2021 | Remote, part-time<br>
 Saint Petersburg, Russia
 
-- Mentored students in intensive PHP development courses and guided them through practical backend problem solving.
-- Reviewed assignments, explained architecture decisions, and supported students in building working PHP solutions.
+Mentoring in two HTML Academy intensive courses: "PHP" (online auction, blog, and task manager training projects) and "PHP and Yii2" (a task marketplace built on Yii2).
+
+**Mentoring**
+
+- Mentored 18 students across four cohorts of both courses and completed about 170 assignment reviews against the course criteria.
+- Used Docker to run student projects and check that they worked, in addition to reviewing the code.
+- Explained architecture decisions, including MVC, splitting logic between models and controllers, dependency injection, and API versioning, and demonstrated fixes in students' code.
+- Held calls with students who struggled to pass an assignment until it was accepted, recommended development and debugging tools (IDE, Xdebug), and took over students transferred from other mentors.
+
+**Final project acceptance**
+
+- Conducted anonymous final acceptance of Yii2 projects by other mentors' students: deployed each project locally, checked startup, migrations, and demo data, and assessed the code against the course criteria and the functionality against the specification.
+- Wrote revision notes and decided whether each project was accepted; when a student could not work through the notes, gave examples of fixes.
+
+**Skills**
+
+`PHP` `Yii2` `MySQL` `SQL` `REST API` `Composer` `Docker` `Xdebug` `Code review`
 
 ### [Timebook Service LLC](https://wfm.timebook.ru/)
 
@@ -131,7 +146,7 @@ Saint Petersburg, Russia
 
 ### Backend & Data
 
-`PHP` `Yii2` `Slim` `Node.js` `Python` `LangGraph` `MySQL` `SQL` `REST API` `Microservice architecture`
+`PHP` `Yii2` `Slim` `Node.js` `Python` `LangGraph` `MySQL` `SQL` `REST API` `Composer` `Microservice architecture`
 
 ### Frontend & CMS
 
@@ -139,11 +154,11 @@ Saint Petersburg, Russia
 
 ### Infrastructure & Business Systems
 
-`WHMCS` `Plesk` `Billing systems` `Payment gateways` `Stripe` `PayPal` `Hosting infrastructure` `Grafana` `Monitoring` `Automation` `CRM` `1C`
+`WHMCS` `Plesk` `Billing systems` `Payment gateways` `Stripe` `PayPal` `Hosting infrastructure` `Grafana` `Monitoring` `Automation` `Docker` `Xdebug` `CRM` `1C`
 
 ### Testing & CI
 
-`Automated testing` `Regression testing` `Jenkins` `CI pipelines`
+`Automated testing` `Regression testing` `Jenkins` `CI pipelines` `Code review`
 
 ## Education
 
