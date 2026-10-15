@@ -96,8 +96,45 @@ Backend development for Timebook, a workforce management (WFM) system for time t
 **PHP/SQL Developer** | December 2018 - April 2021 | On-site<br>
 Saint Petersburg, Russia
 
-- Implemented backend features and database changes across multiple projects.
-- Refined data handling and application logic to keep services reliable and maintainable.
+Backend and frontend development for several company products: adfind.io, an ad campaign search and analytics service; an internal analytics admin panel; a messaging service; a game aggregator and installer; and a CPA network.
+
+**adfind.io - ad campaign search and analytics service**
+
+- Developed automatic topic and language detection for ad creatives: topics are recognized by configurable weighted detectors, with an admin panel for managing topics and running tagging manually.
+- Detected languages with an extended fork of the TextCat library: moved language model storage to MySQL and added n-gram operations (about 70 languages). The detection results became search filters for users.
+- Added a moderator role, tags, and edit history for creatives; manual tagging is never overwritten by automatic tagging.
+- Developed the backend and UI for user features: email registration confirmation, password recovery, segmented email campaigns with a delivery log, and A/B experiments that assign users to variants.
+- Built a referral program with referral links, balance credits, withdrawal requests, and a withdrawal report for administrators.
+- Localized the service into English: moved server and client texts to translation keys and wrote CLI commands that generate translation files.
+
+**Internal analytics admin panel**
+
+- Developed from scratch the Vue.js frontend of an internal admin panel with product analytics reports.
+- Migrated existing reports to Vue.js and built new ones: a base report with groupings, UTM filters, column selection, and LTV; cohort analysis; totals and charts; Excel/CSV export. Report columns are loaded from the server into a shared component, and report settings are saved per user.
+- On the backend (PHP, ClickHouse), added an administrator action log, access permissions, and bot traffic filtering in statistics.
+
+**Messaging service API**
+
+- Developed from scratch, to specification, a Symfony REST API for a messaging service between users and administrators, serving a Vue.js admin panel and an embeddable widget.
+- Implemented token authentication with a limited lifetime and CSRF protection, conversations and messages with attachments, editing, and statuses, user projects, roles, and CORS for the widget on third-party sites.
+- Upgraded the project from Symfony 4 to Symfony 5, prepared fixtures, and set up deployment to test and production servers.
+
+**Game aggregator and installer**
+
+- Built a parser for the feeds and websites of 11 partners: game attributes are extracted with Yandex Tomita-parser rules, processing is split into per-partner events and listeners (Symfony EventDispatcher, DI container), feeds are loaded in chunks with generators, and screenshots are imported.
+- Developed a catalog REST API for the desktop client: game lists and pages, search, and installer bundles, described in OpenAPI.
+- Built the installer UI embedded in the client with Vue.js and Vuetify: catalog, game page, downloads with progress, and settings.
+- Prepared the Docker environment and deployment with Capistrano.
+
+**CPA network**
+
+- Integrated the RoyalPay and Payment Planet payment systems through a shared payment details interface and implemented partner payouts.
+- Improved the precision of storing and displaying financial data in statistics, balances, accruals, and payouts.
+- Implemented passing traffic source group settings (tags, categories, and blocked tags) to an external RTB platform, and added manual resending of postbacks.
+
+**Skills**
+
+`PHP` `Symfony` `Doctrine` `Sonata Admin` `REST API` `OpenAPI` `MySQL` `MariaDB` `ClickHouse` `SQL` `JavaScript` `Vue.js` `Vuex` `Vuetify` `Yandex Tomita-parser` `TextCat` `Docker` `Capistrano` `GitFlow` `Payment gateways` `CPA networks`
 
 ### [REG.RU](https://www.reg.ru/) - Domain Registration, Web Hosting, and VPS Services
 
@@ -162,15 +199,15 @@ Saint Petersburg, Russia
 
 ### Backend & Data
 
-`PHP` `Yii2` `Slim` `Node.js` `Python` `LangGraph` `MySQL` `SQL` `REST API` `Composer` `Microservice architecture`
+`PHP` `Yii2` `Symfony` `Slim` `Doctrine` `Node.js` `Python` `LangGraph` `MySQL` `MariaDB` `ClickHouse` `SQL` `REST API` `OpenAPI` `Composer` `Microservice architecture`
 
 ### Frontend & CMS
 
-`JavaScript` `Angular` `Vue.js` `React` `jQuery` `Bootstrap` `Joomla` `Drupal` `NetCat` `Bitrix`
+`JavaScript` `Angular` `Vue.js` `Vuex` `Vuetify` `React` `jQuery` `Bootstrap` `Joomla` `Drupal` `NetCat` `Bitrix`
 
 ### Infrastructure & Business Systems
 
-`WHMCS` `Plesk` `Billing systems` `Payment gateways` `Stripe` `PayPal` `Hosting infrastructure` `Grafana` `Monitoring` `Automation` `Docker` `Docker Compose` `nginx` `Xdebug` `XHProf` `CRM` `1C`
+`WHMCS` `Plesk` `Billing systems` `Payment gateways` `Stripe` `PayPal` `Hosting infrastructure` `Grafana` `Monitoring` `Automation` `Docker` `Docker Compose` `nginx` `Capistrano` `Xdebug` `XHProf` `CPA networks` `CRM` `1C`
 
 ### Testing & CI
 
