@@ -70,10 +70,26 @@ Mentoring in two HTML Academy intensive courses: "PHP" (online auction, blog, an
 ### [Timebook Service LLC](https://wfm.timebook.ru/)
 
 **Developer** | April 2021 - October 2021 | Remote<br>
-Veliky Novgorod, Russia
+Nizhny Novgorod, Russia
 
-- Worked on the Timebook time management system, fixing bugs and improving stability.
-- Refactored legacy code and implemented platform features using PHP, MySQL, JavaScript, jQuery, and Bootstrap.
+Backend development for Timebook, a workforce management (WFM) system for time tracking, timesheets, and shift scheduling.
+
+**Timesheets**
+
+- Reworked the calculation of six working-time timesheets (payroll, supplementary, sanitary, and others) for shift types from the new scheduling module, covering lunch breaks, overtime, extra work in another role, and night hours.
+- Built a revision timesheet from scratch.
+- Added prioritized color highlighting of cells and hints for plan-versus-actual discrepancies: "Undertime", "Unclosed shift", and "Employee did not show up for the shift".
+
+**Shift scheduling and HR scenarios**
+
+- Fixed shift scheduling bugs related to personnel changes: rewrote the check of whether a shift can be assigned to an employee based on hiring, transfer, and dismissal periods.
+- Eliminated an extra draft plan created when an employee was transferred to another organization and back on the same date, and covered this scenario with a unit test.
+- Improved the cleanup of outdated plans and snapshots, including deletion of document files and period calculation that accounts for time zones.
+- Added diagnostic logging to investigate timesheet confirmation errors involving dismissed employees.
+
+**Skills**
+
+`PHP` `Yii` `Yii2` `MySQL` `REST API` `PHPUnit` `Docker` `Docker Compose` `nginx` `Xdebug` `XHProf` `Git` `GitLab` `Redmine`
 
 ### Smart Line LLC
 
@@ -154,11 +170,11 @@ Saint Petersburg, Russia
 
 ### Infrastructure & Business Systems
 
-`WHMCS` `Plesk` `Billing systems` `Payment gateways` `Stripe` `PayPal` `Hosting infrastructure` `Grafana` `Monitoring` `Automation` `Docker` `Xdebug` `CRM` `1C`
+`WHMCS` `Plesk` `Billing systems` `Payment gateways` `Stripe` `PayPal` `Hosting infrastructure` `Grafana` `Monitoring` `Automation` `Docker` `Docker Compose` `nginx` `Xdebug` `XHProf` `CRM` `1C`
 
 ### Testing & CI
 
-`Automated testing` `Regression testing` `Jenkins` `CI pipelines` `Code review`
+`Automated testing` `Regression testing` `PHPUnit` `Jenkins` `CI pipelines` `Code review`
 
 ## Education
 
