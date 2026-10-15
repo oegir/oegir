@@ -13,6 +13,7 @@
   - [ECOS Implementation Center LLC](resume.md#ecos-implementation-center-llc)
 - [Skills](resume.md#skills)
   - [Backend & Data](resume.md#backend--data)
+  - [Text Processing & NLP](resume.md#text-processing--nlp)
   - [Frontend & CMS](resume.md#frontend--cms)
   - [Infrastructure & Business Systems](resume.md#infrastructure--business-systems)
   - [Testing & CI](resume.md#testing--ci)

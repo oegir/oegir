@@ -14,6 +14,8 @@ PHP Backend Developer with 10+ years of combined experience in software and web 
 
 My core stack is **PHP, MySQL, SQL, and REST API**, with experience across hosting infrastructure, billing systems, CRM solutions, and microservice architecture.
 
+I also have experience in natural language text processing: language identification, topic classification of texts, and rule-based information extraction from free-text descriptions.
+
 **Work authorization:** Authorized to work in Bulgaria under an EU Blue Card, held for more than four years. Eligible for a simplified employer-change procedure.
 
 ## Experience
@@ -100,8 +102,8 @@ Backend and frontend development for several company products: adfind.io, an ad 
 
 **adfind.io - ad campaign search and analytics service**
 
-- Developed automatic topic and language detection for ad creatives: topics are recognized by configurable weighted detectors, with an admin panel for managing topics and running tagging manually.
-- Detected languages with an extended fork of the TextCat library: moved language model storage to MySQL and added n-gram operations (about 70 languages). The detection results became search filters for users.
+- Developed automatic classification of ad creative texts by topic and language: topics are recognized by configurable weighted dictionary detectors, with an admin panel for managing topics and running tagging manually.
+- Ported the TextCat n-gram language identification library from Perl to PHP and extended it: moved language models to MySQL, which made detection much faster, and added n-gram operations (about 70 languages). The detection results became search filters for users.
 - Added a moderator role, tags, and edit history for creatives; manual tagging is never overwritten by automatic tagging.
 - Developed the backend and UI for user features: email registration confirmation, password recovery, segmented email campaigns with a delivery log, and A/B experiments that assign users to variants.
 - Built a referral program with referral links, balance credits, withdrawal requests, and a withdrawal report for administrators.
@@ -121,7 +123,8 @@ Backend and frontend development for several company products: adfind.io, an ad 
 
 **Game aggregator and installer**
 
-- Built a parser for the feeds and websites of 11 partners: game attributes are extracted with Yandex Tomita-parser rules, processing is split into per-partner events and listeners (Symfony EventDispatcher, DI container), feeds are loaded in chunks with generators, and screenshots are imported.
+- Built a parser for the feeds and websites of 11 partners: processing is split into per-partner events and listeners (Symfony EventDispatcher, DI container), feeds are loaded in chunks with generators, and screenshots are imported.
+- Wrote Yandex Tomita-parser grammars and dictionaries that extract game attributes from free-text descriptions written for human readers.
 - Developed a catalog REST API for the desktop client: game lists and pages, search, and installer bundles, described in OpenAPI.
 - Built the installer UI embedded in the client with Vue.js and Vuetify: catalog, game page, downloads with progress, and settings.
 - Prepared the Docker environment and deployment with Capistrano.
@@ -134,7 +137,7 @@ Backend and frontend development for several company products: adfind.io, an ad 
 
 **Skills**
 
-`PHP` `Symfony` `Doctrine` `Sonata Admin` `REST API` `OpenAPI` `MySQL` `MariaDB` `ClickHouse` `SQL` `JavaScript` `Vue.js` `Vuex` `Vuetify` `Yandex Tomita-parser` `TextCat` `Docker` `Capistrano` `GitFlow` `Payment gateways` `CPA networks`
+`PHP` `Symfony` `Doctrine` `Sonata Admin` `REST API` `OpenAPI` `MySQL` `MariaDB` `ClickHouse` `SQL` `JavaScript` `Vue.js` `Vuex` `Vuetify` `Yandex Tomita-parser` `TextCat` `NLP` `Docker` `Capistrano` `GitFlow` `Payment gateways` `CPA networks`
 
 ### [REG.RU](https://www.reg.ru/) - Domain Registration, Web Hosting, and VPS Services
 
@@ -200,6 +203,10 @@ Saint Petersburg, Russia
 ### Backend & Data
 
 `PHP` `Yii2` `Symfony` `Slim` `Doctrine` `Node.js` `Python` `LangGraph` `MySQL` `MariaDB` `ClickHouse` `SQL` `REST API` `OpenAPI` `Composer` `Microservice architecture`
+
+### Text Processing & NLP
+
+`NLP` `Text classification` `Language identification` `Information extraction` `Regular expressions` `TextCat` `Yandex Tomita-parser`
 
 ### Frontend & CMS
 

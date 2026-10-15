@@ -13,6 +13,7 @@
   - [ООО «Внедренческий центр ЭКОС»](/ru/resume.md#ecos-implementation-center-llc)
 - [Навыки](/ru/resume.md#Навыки)
   - [Backend и данные](/ru/resume.md#backend-и-данные)
+  - [Обработка текста и NLP](/ru/resume.md#Обработка-текста-и-nlp)
   - [Frontend и CMS](/ru/resume.md#frontend-и-cms)
   - [Инфраструктура и бизнес-системы](/ru/resume.md#Инфраструктура-и-бизнес-системы)
   - [Тестирование и CI](/ru/resume.md#Тестирование-и-ci)
