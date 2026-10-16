@@ -18,6 +18,10 @@ I also have experience in natural language text processing: language identificat
 
 **Work authorization:** Authorized to work in Bulgaria under an EU Blue Card, held for more than four years. Eligible for a simplified employer-change procedure.
 
+**Job preferences:** Prefer a Bulgarian employer; also open to relocation within the EU.
+
+**Salary expectations:** EUR 3,600-4,000 gross per month, negotiable.
+
 ## Experience
 
 ### [WebPros](https://webpros.com/)
