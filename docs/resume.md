@@ -148,9 +148,32 @@ Backend and frontend development for several company products: adfind.io, an ad 
 **PHP/SQL Developer** | December 2017 - October 2018 | Remote<br>
 Moscow, Russia
 
-- Developed and maintained backend services for a callback request product built around an Asterisk telephony server.
-- Built and maintained user-account billing functionality, including recurring payment flows.
-- Extended a microservices-based platform using Yii2, Slim, and Angular.
+Backend development in a small team for Effect.com, a website widget for online chat and callback requests, with calls made through an Asterisk telephony server. The service was built as microservices: a Slim core with an admin panel (REST/JSON), a Yii2 widget API and balance service, communicating through a message routing service.
+
+**Billing**
+
+- Developed a Yii2 balance service that tracks client top-ups and charges, controls remaining balances, and recalculates them when a client changes plans.
+- Implemented prepaid plans configurable in the admin panel, low-balance handling (client notification, widget suspension, and resumption after a top-up through Yandex.Kassa), and payment and charge history in the client account.
+
+**Widget API and messenger integrations**
+
+- Took part in extracting the widget API into a separate Yii2 microservice with GraphQL for the new Angular version of the widget.
+- Took part in developing the widget chat backend and the Slack and Viber integrations: visitors could leave a phone number or a messenger account or write in the chat, and site owners contacted them by phone or messenger and replied from the admin panel or directly from Slack or Viber.
+
+**Asterisk integration and admin panel**
+
+- Worked on the integration code with the Asterisk telephony server: built call requests, retrieved call statistics for balance charges and the call list, and checked the call flow from a widget request to a connected call.
+- Improved and fixed the admin panel in the Slim core: widget display scenarios based on visitor behavior and widget display settings.
+
+**Testing, query optimization, and blog**
+
+- For each task, maintained Codeception and Selenium automated tests: ran them on the branch before development, fixed existing tests and added new ones after the changes, deployed the branch to staging through CI (Atlassian tools), and closed the task only after a successful run.
+- Analyzed slow MySQL queries with EXPLAIN.
+- Developed a WordPress blog and a plugin that serves recent posts over XML-RPC to a section of the Effect.com website.
+
+**Skills**
+
+`PHP` `Yii2` `Slim` `REST API` `GraphQL` `MySQL` `SQL` `Microservice architecture` `Asterisk` `Angular` `Billing systems` `Slack` `Viber` `Codeception` `Selenium` `Automated testing` `WordPress` `XML-RPC`
 
 ### Sole Proprietor Konstantin Borisovich Gromov
 
@@ -206,7 +229,7 @@ Saint Petersburg, Russia
 
 ### Backend & Data
 
-`PHP` `Yii2` `Symfony` `Slim` `Doctrine` `Node.js` `Python` `LangGraph` `MySQL` `MariaDB` `ClickHouse` `SQL` `REST API` `OpenAPI` `Composer` `Microservice architecture`
+`PHP` `Yii2` `Symfony` `Slim` `Doctrine` `Node.js` `Python` `LangGraph` `MySQL` `MariaDB` `ClickHouse` `SQL` `REST API` `OpenAPI` `GraphQL` `Composer` `Microservice architecture`
 
 ### Text Processing & NLP
 
@@ -214,15 +237,15 @@ Saint Petersburg, Russia
 
 ### Frontend & CMS
 
-`JavaScript` `Angular` `Vue.js` `Vuex` `Vuetify` `React` `jQuery` `Bootstrap` `Joomla` `Drupal` `NetCat` `Bitrix`
+`JavaScript` `Angular` `Vue.js` `Vuex` `Vuetify` `React` `jQuery` `Bootstrap` `WordPress` `Joomla` `Drupal` `NetCat` `Bitrix`
 
 ### Infrastructure & Business Systems
 
-`WHMCS` `Plesk` `Billing systems` `Payment gateways` `Stripe` `PayPal` `Hosting infrastructure` `Grafana` `Monitoring` `Automation` `Docker` `Docker Compose` `nginx` `Capistrano` `Xdebug` `XHProf` `CPA networks` `CRM` `1C`
+`WHMCS` `Plesk` `Billing systems` `Payment gateways` `Stripe` `PayPal` `Hosting infrastructure` `Grafana` `Monitoring` `Automation` `Docker` `Docker Compose` `nginx` `Capistrano` `Xdebug` `XHProf` `CPA networks` `Asterisk` `CRM` `1C`
 
 ### Testing & CI
 
-`Automated testing` `Regression testing` `PHPUnit` `Jenkins` `CI pipelines` `Code review`
+`Automated testing` `Regression testing` `PHPUnit` `Codeception` `Selenium` `Jenkins` `CI pipelines` `Code review`
 
 ## Education
 
